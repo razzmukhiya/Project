@@ -6,6 +6,7 @@
 .header {
 border: 1px solid black;  
 background-color: #F57224;  
+width: 100%;
 }
 
 .menu {
