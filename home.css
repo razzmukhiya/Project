@@ -35,3 +35,59 @@ width: 100%;
     width: 400px;
     height: 30px;
 }
+
+.container {
+    height: 500px;
+    width: 100%;
+}
+
+
+footer {
+    border: 2px solid black;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-info ul {
+    margin-top: 20px;
+    list-style-type: none;
+    
+}
+
+
+.footer-account ul {
+
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+.footer-about ul {
+
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+
+.footer-info ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    
+}
+
+
+.footer-account ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.footer-about ul li p {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+
