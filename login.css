@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.login {
+    border: 2px solid black;
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.login-field {
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    text-align: center;
+    
+    
+   
+   
+}
+
+.login-field form {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.signup-btn input  {
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+}
+
+.input-field input {
+    height: 40px;
+    width: 300px;
+}
+
+form {
+    min-height: 100vh;
+}
