@@ -4,6 +4,7 @@
 }
 
 .login {
+    /* s */
     border: 2px solid black;
     height: 500px;
     width: 1000px;
@@ -14,21 +15,17 @@
 }
 
 .login-field {
-    border: 2px solid black;
     width: 500px;
     height: 500px;
     border-radius: 15px;
     text-align: center;
-    
-    
-   
-   
 }
 
 .login-field form {
     display: flex;
     align-items: center;
     text-align: center;
+    
 }
 
 .signup-btn input  {
@@ -40,8 +37,9 @@
 .input-field input {
     height: 40px;
     width: 300px;
+    
 }
 
-form {
-    min-height: 100vh;
+.login-field {
+    margin-top: 150px;
 }
